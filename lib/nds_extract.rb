@@ -17,3 +17,4 @@ def gross_for_director
 end
 
 # gross_for_director(directors_database)
+gross_for_director
