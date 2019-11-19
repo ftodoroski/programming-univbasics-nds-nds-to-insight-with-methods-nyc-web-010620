@@ -17,6 +17,8 @@ def gross_for_director(director_data)
   i = 0
   while i < director_data[:movies].length
 
+    i += 1
+  end
   # i = 0
   # while i < director_data.length
   #   pp director_data
