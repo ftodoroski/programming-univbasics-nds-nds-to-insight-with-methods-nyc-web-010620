@@ -21,12 +21,8 @@ def gross_for_director(director_data)
     total_gross += worldwide_gross
     i += 1
   end
-  # i = 0
-  # while i < director_data.length
-  #   pp director_data
-  #
-  #   i += 1
-  # end
+
+  total_gross
 end
 
 # gross_for_director(directors_database)
