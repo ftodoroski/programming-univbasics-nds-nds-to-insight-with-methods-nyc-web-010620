@@ -1,9 +1,5 @@
 require 'directors_database'
-
-# Write a method that, given an NDS creates a new Hash
-# The return value should be like:
-#
-# { directorOne => allTheMoneyTheyMade, ... }
+require 'pp'
 
 def directors_totals(nds)
   result = {}
