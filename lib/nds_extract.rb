@@ -15,5 +15,3 @@ end
 def gross_for_director(director_data)
   pp director_data
 end
-
-directors_database
