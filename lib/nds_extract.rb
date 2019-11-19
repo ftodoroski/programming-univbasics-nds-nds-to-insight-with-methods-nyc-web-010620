@@ -22,7 +22,7 @@ def gross_for_director(director_data)
     i += 1
   end
 
-  # pp total_gross
+  total_gross
 end
 
 # gross_for_director(directors_database)
