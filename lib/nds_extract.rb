@@ -19,6 +19,8 @@ def gross_for_director(director_data)
   while i < director_data.length
     worldwide_grosses = director_data[i][:worldwide_grosses]
 
+    total_gross += worldwide_grosses
+
     i += 1
   end
 end
