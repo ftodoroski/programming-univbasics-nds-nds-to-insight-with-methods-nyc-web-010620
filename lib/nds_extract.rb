@@ -23,4 +23,6 @@ def gross_for_director(director_data)
 
     i += 1
   end
+
+  total_gross
 end
