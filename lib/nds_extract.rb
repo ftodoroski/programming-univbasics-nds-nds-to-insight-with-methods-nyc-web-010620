@@ -10,6 +10,7 @@ def directors_totals(nds)
 
   i = 0
   while i < nds.length
+    nds[i]
 
     i += 1
   end
