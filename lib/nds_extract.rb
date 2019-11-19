@@ -16,10 +16,8 @@ def directors_totals(nds)
   result
 end
 
-# Find a way to accumulate the :worldwide_grosses and return that Integer
-# using director_data as input
+# Finds the gross of a director
 def gross_for_director(director_data)
-  # pp director_data
   total_gross = 0
 
   i = 0
