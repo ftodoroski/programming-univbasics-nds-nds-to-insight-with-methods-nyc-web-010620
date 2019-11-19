@@ -15,5 +15,3 @@ end
 def gross_for_director(director_data)
   director_data[:name]
 end
-
-p gross_for_director(directors_database)
